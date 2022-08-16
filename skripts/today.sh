@@ -1,0 +1,1 @@
+/home/bm/Documents/bashScripts/today.sh
